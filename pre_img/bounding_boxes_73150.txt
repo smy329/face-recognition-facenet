@@ -1,0 +1,210 @@
+./pre_img/Akshay Kumar/ActiOn_15.png 660 138 856 391
+./pre_img/Akshay Kumar/ActiOn_34.png 310 48 379 145
+./pre_img/Akshay Kumar/ActiOn_27.png 276 77 400 250
+./pre_img/Akshay Kumar/ActiOn_2.png 83 45 171 161
+./pre_img/Akshay Kumar/ActiOn_12.png 399 106 604 383
+./pre_img/Akshay Kumar/ActiOn_28.png 290 61 432 265
+./pre_img/Akshay Kumar/ActiOn_25.png 176 169 562 707
+./pre_img/Akshay Kumar/ActiOn_22.png 83 573 212 730
+./pre_img/Akshay Kumar/ActiOn_10.png 152 66 294 260
+./pre_img/Akshay Kumar/ActiOn_18.png 242 73 397 284
+./pre_img/Akshay Kumar/ActiOn_11.png 285 67 427 271
+./pre_img/Akshay Kumar/ActiOn_32.png 208 73 309 211
+./pre_img/Akshay Kumar/ActiOn_4.png 203 90 358 286
+./pre_img/Akshay Kumar/ActiOn_1.png 160 37 231 138
+./pre_img/Akshay Kumar/ActiOn_33.png 233 46 451 345
+./pre_img/Akshay Kumar/ActiOn_6.png 308 26 492 269
+./pre_img/Akshay Kumar/ActiOn_29.png 81 26 158 134
+./pre_img/Akshay Kumar/ActiOn_35.png 325 49 427 194
+./pre_img/Akshay Kumar/ActiOn_8.png 302 53 413 199
+./pre_img/Akshay Kumar/ActiOn_37.png 126 196 172 245
+./pre_img/Akshay Kumar/ActiOn_5.png 674 79 933 466
+./pre_img/Akshay Kumar/ActiOn_26.png 751 60 857 195
+./pre_img/Akshay Kumar/ActiOn_16.png 81 23 138 107
+./pre_img/Akshay Kumar/ActiOn_13.png 326 62 472 266
+./pre_img/Akshay Kumar/ActiOn_24.png 230 111 380 313
+./pre_img/Akshay Kumar/ActiOn_20.png 433 219 709 562
+./pre_img/Akshay Kumar/ActiOn_3.png 54 51 171 223
+./pre_img/Akshay Kumar/ActiOn_17.png 458 148 778 607
+./pre_img/Amir khan/Aamir-Khan.png 156 146 393 466
+./pre_img/Nawazuddin Siddiqui/ActiOn_2.png 349 113 498 307
+./pre_img/Nawazuddin Siddiqui/ActiOn_39.png 118 39 205 156
+./pre_img/Nawazuddin Siddiqui/ActiOn_22.png 496 125 760 477
+./pre_img/Nawazuddin Siddiqui/ActiOn_10.png 517 213 773 588
+./pre_img/Nawazuddin Siddiqui/ActiOn_12.png 252 35 347 161
+./pre_img/Nawazuddin Siddiqui/ActiOn_27.png 257 98 440 329
+./pre_img/Nawazuddin Siddiqui/ActiOn_11.png 405 193 709 627
+./pre_img/Nawazuddin Siddiqui/ActiOn_32.png 167 56 263 186
+./pre_img/Nawazuddin Siddiqui/ActiOn_4.png 177 62 518 502
+./pre_img/Nawazuddin Siddiqui/ActiOn_1.png 273 41 366 148
+./pre_img/Nawazuddin Siddiqui/ActiOn_33.png 126 28 164 79
+./pre_img/Nawazuddin Siddiqui/ActiOn_14.png 82 62 158 161
+./pre_img/Nawazuddin Siddiqui/ActiOn_29.png 230 40 322 157
+./pre_img/Nawazuddin Siddiqui/ActiOn_36.png 280 118 432 338
+./pre_img/Nawazuddin Siddiqui/ActiOn_23.png 256 93 419 350
+./pre_img/Nawazuddin Siddiqui/ActiOn_8.png 588 118 770 348
+./pre_img/Nawazuddin Siddiqui/ActiOn_37.png 124 0 485 489
+./pre_img/Nawazuddin Siddiqui/ActiOn_5.png 196 117 384 359
+./pre_img/Nawazuddin Siddiqui/ActiOn_18.png 319 69 447 241
+./pre_img/Nawazuddin Siddiqui/ActiOn_13.png 307 80 457 279
+./pre_img/Nawazuddin Siddiqui/ActiOn_30.png 248 74 511 416
+./pre_img/Nawazuddin Siddiqui/ActiOn_28.png 404 86 598 360
+./pre_img/Nawazuddin Siddiqui/ActiOn_21.png 393 70 514 235
+./pre_img/Nawazuddin Siddiqui/ActiOn_9.png 269 62 439 291
+./pre_img/Nawazuddin Siddiqui/ActiOn_24.png 72 56 146 149
+./pre_img/Nawazuddin Siddiqui/ActiOn_20.png 466 109 676 377
+./pre_img/Nawazuddin Siddiqui/ActiOn_35.png 507 120 752 456
+./pre_img/Nawazuddin Siddiqui/ActiOn_25.png 260 84 342 196
+./pre_img/Nawazuddin Siddiqui/ActiOn_3.png 244 88 403 285
+./pre_img/Nawazuddin Siddiqui/ActiOn_17.png 362 77 590 410
+./pre_img/Salman Khan/ActiOn_15.png 314 132 531 428
+./pre_img/Salman Khan/ActiOn_2.png 240 80 366 269
+./pre_img/Salman Khan/ActiOn_12.png 275 66 428 260
+./pre_img/Salman Khan/ActiOn_22.png 499 97 688 384
+./pre_img/Salman Khan/ActiOn_10.png 408 141 732 586
+./pre_img/Salman Khan/ActiOn_31.png 165 46 223 126
+./pre_img/Salman Khan/ActiOn_32.png 263 46 374 207
+./pre_img/Salman Khan/ActiOn_19.png 427 131 621 395
+./pre_img/Salman Khan/ActiOn_11.png 56 66 161 216
+./pre_img/Salman Khan/ActiOn_4.png 320 70 479 286
+./pre_img/Salman Khan/ActiOn_1.png 92 26 138 84
+./pre_img/Salman Khan/ActiOn_33.png 268 58 443 275
+./pre_img/Salman Khan/ActiOn_34.png 300 59 409 225
+./pre_img/Salman Khan/ActiOn_23.png 704 63 843 252
+./pre_img/Salman Khan/ActiOn_27.png 278 61 413 241
+./pre_img/Salman Khan/ActiOn_8.png 84 30 130 89
+./pre_img/Salman Khan/ActiOn_7.png 181 43 267 158
+./pre_img/Salman Khan/ActiOn_6.png 73 35 129 117
+./pre_img/Salman Khan/ActiOn_29.png 364 47 467 186
+./pre_img/Salman Khan/ActiOn_26.png 94 29 157 121
+./pre_img/Salman Khan/ActiOn_16.png 280 111 426 304
+./pre_img/Salman Khan/ActiOn_28.png 245 96 384 290
+./pre_img/Salman Khan/ActiOn_21.png 291 42 356 135
+./pre_img/Salman Khan/ActiOn_9.png 262 62 434 310
+./pre_img/Salman Khan/ActiOn_24.png 308 60 484 295
+./pre_img/Salman Khan/ActiOn_25.png 358 93 457 247
+./pre_img/Salman Khan/ActiOn_20.png 253 64 371 230
+./pre_img/Salman Khan/ActiOn_5.png 324 79 450 250
+./pre_img/Salman Khan/ActiOn_3.png 350 40 449 177
+./pre_img/Salman Khan/ActiOn_17.png 213 89 364 294
+./pre_img/Shahrukh Khan/ActiOn_15.png 217 306 634 883
+./pre_img/Shahrukh Khan/ActiOn_27.png 170 46 386 333
+./pre_img/Shahrukh Khan/ActiOn_2.png 258 88 401 281
+./pre_img/Shahrukh Khan/ActiOn_10.png 893 159 1097 423
+./pre_img/Shahrukh Khan/ActiOn_12.png 177 98 316 291
+./pre_img/Shahrukh Khan/ActiOn_6.png 365 97 513 306
+./pre_img/Shahrukh Khan/ActiOn_19.png 190 140 419 456
+./pre_img/Shahrukh Khan/ActiOn_18.png 468 332 495 365
+./pre_img/Shahrukh Khan/ActiOn_11.png 165 184 400 474
+./pre_img/Shahrukh Khan/ActiOn_32.png 353 95 424 187
+./pre_img/Shahrukh Khan/ActiOn_4.png 288 109 433 317
+./pre_img/Shahrukh Khan/ActiOn_1.png 449 222 706 559
+./pre_img/Shahrukh Khan/ActiOn_14.png 1601 498 2188 1156
+./pre_img/Shahrukh Khan/ActiOn_29.png 233 85 410 328
+./pre_img/Shahrukh Khan/ActiOn_36.png 375 83 501 254
+./pre_img/Shahrukh Khan/ActiOn_23.png 286 140 450 383
+./pre_img/Shahrukh Khan/ActiOn_7.png 259 79 386 243
+./pre_img/Shahrukh Khan/ActiOn_5.png 381 49 470 166
+./pre_img/Shahrukh Khan/ActiOn_16.png 134 44 230 171
+./pre_img/Shahrukh Khan/ActiOn_13.png 1159 136 1451 520
+./pre_img/Shahrukh Khan/ActiOn_30.png 74 28 145 119
+./pre_img/Shahrukh Khan/ActiOn_28.png 437 146 593 351
+./pre_img/Shahrukh Khan/ActiOn_21.png 98 54 124 86
+./pre_img/Shahrukh Khan/ActiOn_9.png 322 49 412 172
+./pre_img/Shahrukh Khan/ActiOn_24.png 599 70 715 223
+./pre_img/Shahrukh Khan/ActiOn_20.png 244 69 308 151
+./pre_img/Shahrukh Khan/ActiOn_35.png 196 17 574 454
+./pre_img/Shahrukh Khan/ActiOn_25.png 119 64 224 208
+./pre_img/Shahrukh Khan/ActiOn_3.png 44 70 160 227
+./pre_img/Shahrukh Khan/ActiOn_17.png 208 128 393 379
+./pre_img/Sunil Shetty/ActiOn_51.png 243 110 408 340
+./pre_img/Sunil Shetty/ActiOn_38.png 338 178 576 479
+./pre_img/Sunil Shetty/ActiOn_10.png 123 77 248 248
+./pre_img/Sunil Shetty/ActiOn_31.png 259 53 473 334
+./pre_img/Sunil Shetty/ActiOn_12.png 572 136 762 382
+./pre_img/Sunil Shetty/ActiOn_42.png 193 49 310 200
+./pre_img/Sunil Shetty/ActiOn_19.png 135 116 220 225
+./pre_img/Sunil Shetty/ActiOn_46.png 204 70 337 252
+./pre_img/Sunil Shetty/ActiOn_48.png 59 128 320 426
+./pre_img/Sunil Shetty/ActiOn_1.png 53 37 135 142
+./pre_img/Sunil Shetty/ActiOn_33.png 519 714 542 744
+./pre_img/Sunil Shetty/ActiOn_57.png 401 69 541 248
+./pre_img/Sunil Shetty/ActiOn_14.png 127 91 355 367
+./pre_img/Sunil Shetty/ActiOn_29.png 248 55 315 146
+./pre_img/Sunil Shetty/ActiOn_9.png 145 38 234 157
+./pre_img/Sunil Shetty/ActiOn_23.png 145 119 316 348
+./pre_img/Sunil Shetty/ActiOn_37.png 407 127 691 505
+./pre_img/Sunil Shetty/ActiOn_7.png 51 82 176 236
+./pre_img/Sunil Shetty/ActiOn_26.png 209 205 622 700
+./pre_img/Sunil Shetty/ActiOn_50.png 88 28 134 86
+./pre_img/Sunil Shetty/ActiOn_16.png 245 143 424 376
+./pre_img/Sunil Shetty/ActiOn_13.png 304 117 595 494
+./pre_img/Sunil Shetty/ActiOn_30.png 298 153 625 591
+./pre_img/Sunil Shetty/ActiOn_28.png 250 49 360 185
+./pre_img/Sunil Shetty/ActiOn_54.png 48 4 149 138
+./pre_img/Sunil Shetty/ActiOn_6.png 313 87 456 272
+./pre_img/Sunil Shetty/ActiOn_24.png 165 48 206 100
+./pre_img/Sunil Shetty/ActiOn_52.png 127 35 192 116
+./pre_img/Sunil Shetty/ActiOn_44.png 85 87 222 272
+./pre_img/Sunil Shetty/ActiOn_17.png 288 390 680 883
+./pre_img/Tom_cuise/1272032_tom_cruise.png 68 47 187 188
+./pre_img/Tom_cuise/cruise.png 275 119 528 444
+./pre_img/Tom_cuise/tom-cruise-9262645-1-402 (1).png 346 269 870 992
+./pre_img/Tom_cuise/tom-cruise-in-the-mummy.png 369 53 451 159
+./pre_img/Tom_cuise/tom-cruise-9262645-1-402.png 346 269 870 992
+./pre_img/Tom_cuise/Tom-Cruise-joins-Instagram-announces-Mission-Impossible-6-title.png 334 124 586 460
+./pre_img/Tom_cuise/21443192-7723369-Not_true_Tom_Cruise_is_too_old_for_action_films_according_to_Jac-m-7_1574693024415.png 202 59 335 232
+./pre_img/Tom_cuise/Tom_Cruise_in_London,_2015_(cropped).png 402 422 1483 1907
+./pre_img/Tom_cuise/MV5BMTk1MjM3NTU5M15BMl5BanBnXkFtZTcwMTMyMjAyMg@@._V1_UY1200_CR142,0,630,1200_AL_.png 72 283 509 857
+./pre_img/Tom_cuise/gettyimages-529214746.png 245 200 585 660
+./pre_img/Tom_cuise/images1.png 136 130 373 452
+./pre_img/Tom_cuise/Tom_Cruise_by_Gage_Skidmore_2.png 561 315 1325 1458
+./pre_img/Tom_cuise/images (1).png 108 34 162 113
+./pre_img/Tom_cuise/cruise-1024x683.png 290 65 535 395
+./pre_img/Tom_cuise/tom-featured.png 246 97 393 290
+./pre_img/Tom_cuise/5e9c769d33108358b8b1e39ff49abf8b.png 65 71 394 530
+./pre_img/Tom_cuise/tom-cruise-mummy.png 395 67 535 251
+./pre_img/Tom_cuise/416x416.png 124 69 267 289
+./pre_img/Tom_cuise/70061916.png 148 51 373 337
+./pre_img/Tom_cuise/5a6a18f56c29fa0b4cf8e5a3_tom-cruise-joins-instagram.png 581 167 926 655
+./pre_img/Tom_cuise/tom-cruise-cocktail-promo-1.png 341 98 573 421
+./pre_img/Tom_cuise/top-gun_WenFMd.png 430 135 762 588
+./pre_img/Tom_cuise/tom-cruise-ukraine-trump.png 726 228 1119 775
+./pre_img/Tom_cuise/images (2).png 83 52 163 154
+./pre_img/Tom_cuise/5925893a6391472d558b5a18.png 300 29 682 544
+./pre_img/Tom_cuise/images.png 92 15 176 131
+./pre_img/Tom_cuise/toronto-12-05-01-actor-tom-cruise-flashes-his-trademark-winn.png 108 22 262 231
+./pre_img/Tom_cuise/tom.png 234 71 410 317
+./pre_img/Tom_cuise/TomCruise-adb2f92f-5edd-456a-9e39-1f2f3c4ca5e6.png 450 108 596 300
+./pre_img/Tom_cuise/images (3).png 61 45 160 183
+./pre_img/ronaldo/Cristiano_Ronaldo_2018.png 146 93 378 399
+./pre_img/ronaldo/images (4).png 139 31 189 102
+./pre_img/ronaldo/images (7).png 150 14 177 51
+./pre_img/ronaldo/cristiano-ronaldo-juventus-2019-20_1di46cs81njgd14skgkyepzy14.png 119 15 164 78
+./pre_img/ronaldo/cristiano-ronaldo-555730-1-402.png 226 209 914 1167
+./pre_img/ronaldo/21762040-7751327-image-m-35_1575384148190.png 297 92 455 306
+./pre_img/ronaldo/1855b0e0-37ec-11ea-bf29-fded8d91388a.png 210 56 320 204
+./pre_img/ronaldo/download.png 134 16 174 70
+./pre_img/ronaldo/48362144_303.png 308 31 446 193
+./pre_img/ronaldo/images (8).png 102 14 131 55
+./pre_img/ronaldo/images (11).png 89 31 135 94
+./pre_img/ronaldo/cristiano-ronaldo.png 1175 318 1665 968
+./pre_img/ronaldo/34c48b0dacc1c0c2371c183ffc97a78f.png 593 92 815 389
+./pre_img/ronaldo/cristianoronaldo-cropped6twq97dg7cis12agx74nlywdgjpg.png 155 51 240 172
+./pre_img/ronaldo/images (1).png 114 22 172 89
+./pre_img/ronaldo/images (10).png 197 13 253 83
+./pre_img/ronaldo/images (5).png 135 35 195 120
+./pre_img/ronaldo/5bc60f951d00005500309077.png 257 30 395 228
+./pre_img/ronaldo/images (6).png 160 16 210 86
+./pre_img/ronaldo/images (9).png 143 41 201 122
+./pre_img/ronaldo/images (13).png 127 21 154 54
+./pre_img/ronaldo/images (12).png 72 62 91 88
+./pre_img/ronaldo/105692413-1548173252068gettyimages-450710900.png 308 170 588 532
+./pre_img/ronaldo/416x416.png 118 57 245 222
+./pre_img/ronaldo/Cristiano-Ronaldo-Why-is-Juventus-star-not-starting-vs-Udinese-tonight-1097315.png 131 65 236 208
+./pre_img/ronaldo/images (2).png 109 15 141 56
+./pre_img/ronaldo/images.png 112 37 150 100
+./pre_img/ronaldo/download (1).png 106 14 144 66
+./pre_img/ronaldo/cristiano-ronaldo-warm.png 464 68 732 403
+./pre_img/ronaldo/cristiano-ronaldo-medium.png 97 89 261 320
+./pre_img/ronaldo/images (3).png 133 24 182 91
